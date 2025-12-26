@@ -1,0 +1,13 @@
+﻿{
+    "stack_trace":  "Log file missing.",
+    "build_id":  "76",
+    "timestamp":  "12/26/2025 17:50:37",
+    "source_repo":  "https://github.com/sivaparvathi-coastal7/QA_Garden",
+    "test_name":  "QA Garden Tests (Windows Native)",
+    "status":  "FAILED",
+    "labels":  [
+                   "bug",
+                   "auto-report",
+                   "windows"
+               ]
+}
