@@ -1,0 +1,13 @@
+﻿{
+    "stack_trace":  "Log file missing.",
+    "build_id":  "78",
+    "timestamp":  "12/26/2025 18:10:47",
+    "source_repo":  "https://github.com/sivaparvathi-coastal7/login_signup",
+    "test_name":  "Login Signup Tests (Windows Native)",
+    "status":  "FAILED",
+    "labels":  [
+                   "bug",
+                   "auto-report",
+                   "windows"
+               ]
+}
