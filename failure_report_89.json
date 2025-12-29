@@ -1,0 +1,16 @@
+﻿{
+    "bert_url":  "http://127.0.0.1:8001",
+    "test_name":  "Login Signup Tests (Docker Hybrid)",
+    "file_path":  "TeamTests/test_guaranteed.py",
+    "logs":  "Log file missing.",
+    "test_url":  "https://github.com/sivaparvathi-coastal7/login_signup",
+    "stack_trace":  "Log file missing.",
+    "llm_model":  "gemma:2b",
+    "error_message":  "Pipeline Test Failed inside Docker.",
+    "playwright_script_url":  "https://github.com/sivaparvathi-coastal7/login_signup/blob/main/test_guaranteed.py",
+    "labels":  [
+                   "bug",
+                   "auto-report",
+                   "docker-hybrid"
+               ]
+}
